@@ -1,0 +1,28 @@
+*{
+    background-color: #dcdcc8;
+     font-family: Arial, sans-serif;
+
+}
+.highlight{
+    color: rgb(168, 12, 12);
+    font-weight: bold;
+}
+#footer{
+    color:red;
+}
+h1,h2{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+}
+.content {
+    display: flex;
+    align-items: flex-start;
+    gap: 20px;
+}
+body{
+    max-width: 600px;
+    margin: auto;
+}
+h1{
+    margin-bottom: 30px;
+}

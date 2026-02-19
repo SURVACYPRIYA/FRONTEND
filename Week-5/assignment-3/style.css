@@ -1,0 +1,20 @@
+*{
+    background-color:bisque;
+}
+h2{
+    color:chocolate;
+    margin-left: 70px;
+}
+h1{
+    text-align: center;
+}
+div{
+    text-align: center;
+}
+p{
+    margin-left: 70px;
+}
+hr{
+    width: 1150px;
+    margin: 20px auto;
+}
